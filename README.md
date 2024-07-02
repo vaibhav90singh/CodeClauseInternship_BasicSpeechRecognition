@@ -1,5 +1,2 @@
 # CodeClauseInternship_BasicSpeechRecognition
-Aim - Build a simple speech recognition tool. <br>
-Description - Create a program that can recognize basic spoken commands or words. Use a pretrained model or a basic algorithm for speech recognition. <br>
-Technologies - Python You can use other technologies that you know. <br>
-What You Learn - Speech recognition basics, working with audio data, and library usage. <br>
+Create a speech recognition tool in Python to interpret spoken commands or words using pre-trained models or basic algorithms. Gain insights into speech recognition fundamentals, audio data handling, and library integration. Aim to develop a functional prototype for understanding basic speech input.
